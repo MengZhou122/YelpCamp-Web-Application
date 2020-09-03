@@ -6,6 +6,6 @@ RESTful web application deployed on Heroku with Express framework for camping-si
 
 Developed the front-end with HTML, CSS, JavaScript, EJS, decorated with Bootstrap and Semantic UI.
 
-Manipulated request and response process with vanilla JS and jQuery, completed server-side JavaScript by NodeJS.
+Manipulated request and response process with vanilla JS and jQuery, and NodeJS.
 
 Stored user infomation, posts and comments in MongoDB, implemented user authentication and authorization with passport package.
