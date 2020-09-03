@@ -2,7 +2,7 @@
 
 ![Web Gif](https://drive.google.com/uc?id=1gCYJ11tHIZr4zZwYyaYfK1uZGr39X7sO)
 
-RESTful web application on Heroku with Express framework for camping-site information sharing.
+RESTful web application deployed on Heroku with Express framework for camping-site information sharing.
 
 Developed the front-end with HTML, CSS, JavaScript, EJS, decorated with Bootstrap and Semantic UI.
 
